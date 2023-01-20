@@ -40,7 +40,7 @@ while True:
 
     cv2.imshow('LIVE', im)
     key = cv2.waitKey(10)
-gi
+
     if key == 27:
         break
 
